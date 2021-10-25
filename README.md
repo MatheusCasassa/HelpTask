@@ -1,2 +1,2 @@
 # HelpTask
- Projeto HelpTask by SyncaWave Group
+ Projeto HelpTask by SyncWave Group
